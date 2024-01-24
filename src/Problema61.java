@@ -5,6 +5,7 @@ public class Problema61 {
 /* 
     O método correctBracketing retorna True se cada colchete de abertura tiver um colchete de fechamento correspondente.
     Colchetes é uma string de "(" e ")".
+    Por exemplo:
     >>> correctBracketing("(")
     Falso
     >>> correctBracketing("()")

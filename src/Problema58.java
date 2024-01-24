@@ -5,6 +5,7 @@ public class Problema58 {
 /*
     O método comum recebe duas listas de inteiros.
     Retorna elementos comuns exclusivos presentes nessas duas listas.
+    Por exemplo:
     >>> comum([1, 4, 3, 34, 653, 2, 5], [5, 7, 1, 5, 9, 653, 121])
     [1, 5, 653]
     >>> comum([5, 3, 2, 8], [3, 2])

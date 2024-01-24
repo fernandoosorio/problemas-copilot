@@ -5,7 +5,8 @@ import java.util.List;
 public class Problema43 {
 /* 
     O método pairsSumToZero recebe uma lista de inteiros como entrada.
-    retorna True se houver dois elementos na lista que a soma seja zero e False caso contrário.
+    Retorna True se houver dois elementos na lista que a soma seja zero e False caso contrário.
+    Por exemplo:
     >>> pairsSumToZero([1, 3, 5, 0])
     Falso
     >>> pairsSumToZero([1, 3, -2, 1])

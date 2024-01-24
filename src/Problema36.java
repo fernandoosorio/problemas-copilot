@@ -4,7 +4,9 @@
 public class Problema36 {
 
 /*
-    Retorna o número de vezes que o dígito 7 aparece em inteiros menores que n que são divisíveis por 11 ou 13.
+    O método fizzBuzz retorna o número de vezes que o dígito 7 aparece em inteiros menores que um determinado número
+ que são divisíveis por 11 ou 13.
+    Por exemplo:
     >>> fizzbuzz(50)
     0
     >>> fizzbuzz(78)
