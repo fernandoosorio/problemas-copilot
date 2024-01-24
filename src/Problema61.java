@@ -3,8 +3,8 @@
 //Autor(a):
 public class Problema61 {
 /* 
-    colchetes é uma string de "(" e ")".
-    retorna True se cada colchete de abertura tiver um colchete de fechamento correspondente.
+    O método correctBracketing retorna True se cada colchete de abertura tiver um colchete de fechamento correspondente.
+    Colchetes é uma string de "(" e ")".
     >>> correctBracketing("(")
     Falso
     >>> correctBracketing("()")
