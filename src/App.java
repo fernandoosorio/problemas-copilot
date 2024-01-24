@@ -8,7 +8,7 @@ public class App {
      * false
      */
     public boolean isPar(int n) {
-        return false;
+        return n % 2 == 0;
     }
 
     

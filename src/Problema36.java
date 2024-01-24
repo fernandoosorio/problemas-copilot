@@ -1,6 +1,9 @@
 
 
 //Autor(a):
+//Horário de início (HH:mm): 
+//Horário de término (HH:mm):
+//Link para envio da solução : https://forms.gle/6rXNW9rFfJeoHQaS6
 public class Problema36 {
 
 /*
